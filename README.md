@@ -1,6 +1,6 @@
 # 👋 Hi, I’m `@P0TEZ`
 
-## 🎓 I'm a M1 student in Software Development at ISEN
+## 🎓 I'm a Master 2 student in Software Development at ISEN
 
 ### ⚡Stats
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=P0TEZ&show_icons=true&locale=en&theme=dracula&background=ffffff00&layout=donut"/>-->
